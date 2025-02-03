@@ -1,5 +1,7 @@
 # Irochi-Mikke-English-Patch
 
+Official English Version Released: https://www.nintendo.com/us/store/products/odd-hue-out-switch/
+
 Hello! This is an English translation patch for いろちみっけ! aka Irochi Mikke. 
 The patch is in xdelta format and you'll need a couple of things to get started.
 
